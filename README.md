@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Student @Chandigarh University<br>🌱 I’m currently indulged in learning frontend web development and algorithms<br>💬 Development & problem solving 
+🔭 I’m a Final Year Student @Chandigarh University<br>🌱 I’m currently indulged in frontend web development and data structures algorithms<br>💬 Development & problem solving ongoing 
 
 
 ## 🌐 Connect With Me:
